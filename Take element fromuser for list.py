@@ -1,4 +1,4 @@
-name=input('Enter the name of list')
+name=input('Enter the name of list ')
 num=int(input('How many elements doy ou want in list ? '))
 b=str(name)
 c=[]
